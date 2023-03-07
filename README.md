@@ -1,12 +1,15 @@
 # project-velour
+## Proof of concept
 Keyboard controlled rail shooter flight game
 
 
-## Proof of concept
-    - [Version Log](#version-log)
-    - [Development Checkpoints](#development-checkpoints)
-    - [Roadmap](#roadmap)
-    - [Bug List](#bug-list)
+- [project-velour](#project-velour)
+    + [Version Log](#version-log)
+    + [Development Checkpoints](#development-checkpoints)
+    + [Roadmap](#roadmap)
+    + [Bug List](#bug-list)
+
+
 
 ### Version Log
 | Version | Release   | Discussion                                                                                                                      |
