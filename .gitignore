@@ -13,4 +13,3 @@ Cargo.lock
 # Mark working files and local deprecated or note files with _ as first char
 _*
 
-.gitignore
