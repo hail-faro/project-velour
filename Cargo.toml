@@ -4,7 +4,7 @@ description = "Keyboard controlled rail shooter flight game"
 edition = "2021"
 include = ["/assets", "/src"]
 name = "project-velour"
-version = "0.1.0"
+version = "0.2.0"
 
 # Enable max optimizations for dependencies, but not for our code:
 [profile.dev.package."*"]
